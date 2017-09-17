@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<attr name="text_subtitle" type="color"/>
+	<attr name="text_title" type="color"/>
+	<attr name="card_background" type="color"/>
+</resources>

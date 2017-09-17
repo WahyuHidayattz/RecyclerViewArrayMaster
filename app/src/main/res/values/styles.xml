@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Base.AppTheme">
+	</style>
+	<style name="Base.AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="android:windowBackground">@color/light</item>
+		<item name="text_title">@color/text_title_light</item>
+		<item name="text_subtitle">@color/text_subtitle_light</item>
+	</style>
+	
+	<!-- dark theme -->
+	<style name="AppThemeDark" parent="Base.AppThemeDark">
+	</style>
+	<style name="Base.AppThemeDark" parent="Theme.AppCompat.NoActionBar">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="android:windowBackground">@color/dark</item>
+		<item name="text_title">@color/text_title_dark</item>
+		<item name="text_subtitle">@color/text_subtitle_dark</item>
+	</style>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="item_title">
+		<item>Debian</item>
+		<item>Ubuntu</item>
+		<item>Linux Mint</item>
+		<item>Open Suse</item>
+		<item>Fedora</item>
+		<item>Kali Linux</item>
+		<item>Parrot Sec</item>
+		<item>BackBox</item>
+		<item>Arch Linux</item>
+		<item>Remix OS</item>
+		<item>DracOS</item>
+		<item>BlankOn</item>
+		<item>Elementary OS</item>
+		<item>Zorin OS</item>
+	</string-array>
+	<string-array name="item_subtitle">
+		<item>@string/debian</item>
+		<item>@string/ubuntu</item>
+		<item>@string/mint</item>
+		<item>@string/suse</item>
+		<item>@string/fedora</item>
+		<item>@string/kali</item>
+		<item>@string/parrot</item>
+		<item>@string/backbox</item>
+		<item>@string/arch</item>
+		<item>@string/remix</item>
+		<item>@string/dracos</item>
+		<item>@string/blankon</item>
+		<item>@string/elementary</item>
+		<item>@string/zorion</item>
+	</string-array>
+	<array name="item_thumbnail">
+		<item>@drawable/distro_debian</item>
+		<item>@drawable/distro_ubuntu</item>
+		<item>@drawable/distro_mint</item>
+		<item>@drawable/distro_suse</item>
+		<item>@drawable/distro_fedora</item>
+		<item>@drawable/distro_kali</item>
+		<item>@drawable/distro_parrot</item>
+		<item>@drawable/distro_backbox</item>
+		<item>@drawable/distro_arch</item>
+		<item>@drawable/distro_remix</item>
+		<item>@drawable/distro_dracos</item>
+		<item>@drawable/distro_blankon</item>
+		<item>@drawable/distro_elementary</item>
+		<item>@drawable/distro_zorin</item>
+	</array>
+</resources>

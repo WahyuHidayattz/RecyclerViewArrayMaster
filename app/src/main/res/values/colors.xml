@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#FF1744</color>
+	<color name="colorPrimaryDark">#D91339</color>
+	<color name="light">#ffffff</color>
+	<color name="dark">#202020</color>
+	
+	<color name="text_title_light">#202020</color>
+	<color name="text_subtitle_light">#808080</color>
+	<color name="text_title_dark">#ffffff</color>
+	<color name="text_subtitle_dark">#cccccc</color>
+</resources>

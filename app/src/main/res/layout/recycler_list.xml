@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content"
+	android:layout_width="match_parent"
+	android:id="@+id/frame"
+	android:background="?attr/selectableItemBackground">
+
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:orientation="vertical">
+
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal"
+			android:padding="15dp"
+			android:gravity="center_vertical">
+
+			<ImageView
+				android:layout_width="50dp"
+				android:layout_height="50dp"
+				android:background="@drawable/bg_circle"
+				android:src="@drawable/distro_debian"
+				android:id="@+id/thumbnail"/>
+
+			<LinearLayout
+				android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:orientation="vertical"
+				android:layout_marginLeft="15dp">
+
+				<TextView
+					android:layout_height="wrap_content"
+					android:layout_width="match_parent"
+					android:text="Title"
+					android:textSize="16sp"
+					android:id="@+id/title"
+					android:textColor="?attr/text_title"
+					android:layout_marginBottom="5dp"/>
+
+				<TextView
+					android:layout_height="wrap_content"
+					android:layout_width="match_parent"
+					android:text="Subtitle"
+					android:textSize="14sp"
+					android:ellipsize="end"
+					android:id="@+id/subtitle"
+					android:textColor="?attr/text_subtitle"
+					android:maxLines="2"/>
+
+			</LinearLayout>
+
+		</LinearLayout>
+
+		<View
+			android:background="?android:attr/dividerVertical"
+			android:layout_height="1dp"
+			android:layout_width="match_parent"/>
+
+	</LinearLayout>
+
+</FrameLayout>
+

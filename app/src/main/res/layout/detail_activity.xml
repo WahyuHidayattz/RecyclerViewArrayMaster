@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="?attr/android:windowBackground">
+
+	<include
+		layout="@layout/toolbar"/>
+
+	<ScrollView
+		android:layout_height="match_parent"
+		android:layout_width="match_parent">
+
+		<LinearLayout
+			android:layout_height="match_parent"
+			android:layout_width="match_parent"
+			android:orientation="vertical">
+
+			<ImageView
+				android:layout_width="match_parent"
+				android:layout_height="150dp"
+				android:background="?attr/colorPrimary"
+				android:src="@drawable/distro_debian"
+				android:id="@+id/mThumbnail"
+				android:scaleType="center"/>
+
+			<LinearLayout
+				android:layout_height="match_parent"
+				android:layout_width="match_parent"
+				android:orientation="vertical"
+				android:padding="15dp">
+
+				<TextView
+					android:layout_height="wrap_content"
+					android:layout_width="match_parent"
+					android:text="Title"
+					android:textSize="20sp"
+					android:layout_marginBottom="10dp"
+					android:id="@+id/mTitle"
+					android:textColor="?attr/text_title"/>
+
+				<TextView
+					android:layout_height="wrap_content"
+					android:layout_width="match_parent"
+					android:text="Subtitle"
+					android:textSize="14sp"
+					android:id="@+id/mSubtitle"
+					android:layout_marginBottom="10dp"
+					android:textColor="?attr/text_subtitle"/>
+
+				<TextView
+					android:layout_height="wrap_content"
+					android:layout_width="match_parent"
+					android:text="Subtitle"
+					android:textSize="14sp"
+					android:id="@+id/mSubtitle2"
+					android:layout_marginBottom="10dp"
+					android:textColor="?attr/text_subtitle"/>
+
+				<TextView
+					android:layout_height="wrap_content"
+					android:layout_width="match_parent"
+					android:text="Subtitle"
+					android:textSize="14sp"
+					android:id="@+id/mSubtitle3"
+					android:layout_marginBottom="10dp"
+					android:textColor="?attr/text_subtitle"/>
+
+				<TextView
+					android:layout_height="wrap_content"
+					android:layout_width="match_parent"
+					android:text="Subtitle"
+					android:textSize="14sp"
+					android:id="@+id/mSubtitle4"
+					android:layout_marginBottom="10dp"
+					android:textColor="?attr/text_subtitle"/>
+
+			</LinearLayout>
+
+		</LinearLayout>
+
+	</ScrollView>
+
+</LinearLayout>
+

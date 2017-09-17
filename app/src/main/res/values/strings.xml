@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecyclerView Arrays</string>
+    <string name="hello_world">Hello world!</string>
+	
+	<!-- Distro Desc -->
+	<string name="debian">Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi GNU General Public License dan lisensi perangkat lunak bebas lainnya.</string>
+	<string name="ubuntu">Ubuntu adalah salah satu distribusi Linux yang berbasiskan pada Debian dan memiliki interface desktop (unity desktop). Proyek Ubuntu disponsori oleh Canonical Ltd (perusahaan milik Mark Shuttleworth). Nama Ubuntu diambil dari nama sebuah konsep ideologi di Afrika Selatan.</string>
+	<string name="mint">Linux Mint adalah sistem operasi Linux yang merupakan suatu distribusi Linux dengan basis Debian dan Ubuntu. Linux Mint Debian Edition (LMDE) merupakan suatu distro linux mint yang sepenuhnya berbasis Debian. Aplikasi yang dapat berjalan di Ubuntu, juga bisa berjalan pada LinuxMint.</string>
+	<string name="suse">OpenSUSE adalah distro Linux versi komunitas yang didukung dan disponsori oleh Novell. OpenSUSE merupakan distro Linux open source dan gratis yang menjadi dasar pengembangan bagi distro Linux komersil yang disediakan oleh Novell, SUSE Linux Enterprise Server (SLES) dan SUSE Linux Enterprise Desktop (SLED).</string>
+	<string name="fedora">Fedora (sebelumnya bernama Fedora Core, kadang-kadang disebut juga dengan Fedora Linux) adalah sebuah distro Linux berbasis RPM dan yum yang dikembangkan oleh Fedora Project yang didukung oleh komunitas pemrogram serta disponsori oleh Red Hat.</string>
+	<string name="kali">Kali Linux adalah penerus distro BackTrack. Sama seperti BackTrack, distro ini dilengkapi dengan berbagai tools Linux untuk melakukan penetration testing. Dengan Kali Linux, pengguna yang melakukan pengujian keamanan tidak perlu repot men-install atau membuat kode program/script baru.</string>
+	<string name="parrot">Parrot Sec adalah distro linux berbasis Debian yang dibuat khusus untuk keperluan keamanan komputer (computer security), distro ini menyediakan berbagai tools penetration testing dan tools development untuk menguji keperluan keamanan jaringan dan komputer.</string>
+	<string name="backbox">Backbox adalah distro yang dibangun dengan berbasis Ubuntu, Backbox dilengkapi dengan berbagai tools untuk penetration testing karena distro ini dikhususkan untuk keperluan ethical hacking dan security testing.</string>
+	<string name="arch">Arch Linux (dikenal juga dengan ArchLinux atau Arch) adalah sebuah distribusi Linux untuk komputer i686 dan x86_64 yang didesain untuk menjadi ringan dan sederhana.</string>
+	<string name="remix">Remix OS adalah sistem operasi untuk komputer pribadi yang merupakan keturunan linux, OS ini didasarkan pada arsitektur ARM. Remix OS memungkinkan pengguna komputer untuk menjalankan aplikasi Android pada setiap perangkat yang kompatibel dengan PC berbasis Intel.</string>
+	<string name="dracos">DracOS Linux adalah sistem operasi linux bersifat opensource yang di bangun berdasarkan Linux From The Scratch (bukan turunan distro lain). Dracos linux di bawah perlindungan GNU General Public License v3.0. Sistem operasi ini merupakan salah satu varian distro linux, yang di gunakan untuk melakukan pengujian security (penetration testing). Dracos linux di bekali oleh ratusan tools pentest, forensics dan reverse engineering. Dracos linux tidak menggunakan tools-tools berbasis GUI dan hanya memilki perangkat lunak yang menggunakan CLI (command line interface) untuk melakukan operasinya.</string>
+	<string name="blankon">Linux BlankOn adalah distribusi Linux yang dikembangkan oleh Tim Pengembang BlankOn. Distribusi ini dirancang dan disesuai dengan kebutuhan pengguna komputer umum di Indonesia. Linux BlankOn dikembangkan secara terbuka dan bersama-sama untuk menghasilkan distro Linux khas Indonesia, khususnya untuk dunia pendidikan, perkantoran dan pemerintahan.</string>
+	<string name="elementary">elementary OS merupakan sebuah distro linux berbasiskan Ubuntu. Distro ini menggunakan desktop manager-nya sendiri yang bernama Pantheon dan terintegrasi dengan aplikasi bawaan elementary OS lainnya, seperti Plank (sebuah dock-bar berbasiskan Docky), peramban web Midori, dan Scratch (Teks editor yang sederhana).</string>
+	<string name="zorion">Zorin OS merupakan distro Linux berbasis Ubuntu yang diperuntukan bagi pengguna yang baru mau menggunakan Linux. Mempunyai antarmuka grafis yang mirip dengan sistem operasi Windows dan mempunyai banyak aplikasi yang biasanya ada di sistem operasi Windows.</string>
+	
+
+</resources>
